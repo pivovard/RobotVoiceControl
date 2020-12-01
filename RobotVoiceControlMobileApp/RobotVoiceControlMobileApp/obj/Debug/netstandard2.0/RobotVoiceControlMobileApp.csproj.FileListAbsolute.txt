@@ -1,0 +1,14 @@
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\bin\Debug\netstandard2.0\RobotVoiceControlMobileApp.deps.json
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\bin\Debug\netstandard2.0\RobotVoiceControlMobileApp.dll
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\bin\Debug\netstandard2.0\ref\RobotVoiceControlMobileApp.dll
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\bin\Debug\netstandard2.0\RobotVoiceControlMobileApp.pdb
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\RobotVoiceControlMobileApp.csprojAssemblyReference.cache
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\RobotVoiceControlMobileApp.AssemblyInfoInputs.cache
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\RobotVoiceControlMobileApp.AssemblyInfo.cs
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\RobotVoiceControlMobileApp.csproj.CoreCompileInputs.cache
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\RobotVoiceControlMobileApp.dll
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\ref\RobotVoiceControlMobileApp.dll
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\RobotVoiceControlMobileApp.pdb

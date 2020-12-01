@@ -1,0 +1,3 @@
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp.Android\obj\Debug\70\MonoAndroid,Version=v7.0.AssemblyAttributes.cs
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp.Android\obj\Debug\70\build.props
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp.Android\obj\Debug\70\adb.props

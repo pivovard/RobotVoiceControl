@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nD4vuYx6FtQSRbEyxCVrBy6paeWrEe6f59W1QX0hjM6sED18XpBvq8pL7oJrS7LP85uxqEPZdwo/M3/VKImtbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pivov\\_dev\\RobotVoiceControl\\RobotVoiceControlMobileApp\\RobotVoiceControlMobileApp.iOS\\RobotVoiceControlMobileApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pivov\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.14.0\\microsoft.cognitiveservices.speech.1.14.0.nupkg.sha512",
+    "C:\\Users\\pivov\\.nuget\\packages\\plugin.ble\\2.1.1\\plugin.ble.2.1.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
