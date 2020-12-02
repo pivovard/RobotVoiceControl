@@ -10,9 +10,7 @@
 
 #include "includes.h"
 
-int r_offset = 100
-
-void execute();
+void execute(unsigned char com, unsigned char comL, unsigned char comR);
 void follow();
 
 

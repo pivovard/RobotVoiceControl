@@ -28,47 +28,47 @@
 		<link>
 			<name>ADC12.c</name>
 			<type>1</type>
-			<location> c:/Users/pivov/_dev/_work/MSP430/F149/ADC12.c</location>
+			<locationURI>PARENT-1-PROJECT_LOC/MSP430/F149/ADC12.c</locationURI>
 		</link>
 		<link>
 			<name>BCM.c</name>
 			<type>1</type>
-			<location> c:/Users/pivov/_dev/_work/MSP430/F149/BCM.c</location>
+			<locationURI>PARENT-1-PROJECT_LOC/MSP430/F149/BCM.c</locationURI>
 		</link>
 		<link>
 			<name>BCM.h</name>
 			<type>1</type>
-			<location> c:/Users/pivov/_dev/_work/MSP430/F149/BCM.h</location>
+			<locationURI>PARENT-1-PROJECT_LOC/MSP430/F149/BCM.h</locationURI>
 		</link>
 		<link>
 			<name>TMR0_A3.c</name>
 			<type>1</type>
-			<location> c:/Users/pivov/_dev/_work/MSP430/F149/TMR0_A3.c</location>
+			<locationURI>PARENT-1-PROJECT_LOC/MSP430/F149/TMR0_A3.c</locationURI>
 		</link>
 		<link>
 			<name>TMR0_A3.h</name>
 			<type>1</type>
-			<location> c:/Users/pivov/_dev/_work/MSP430/F149/TMR0_A3.h</location>
+			<locationURI>PARENT-1-PROJECT_LOC/MSP430/F149/TMR0_A3.h</locationURI>
 		</link>
 		<link>
 			<name>TMR0_B7.c</name>
 			<type>1</type>
-			<location> c:/Users/pivov/_dev/_work/MSP430/F149/TMR0_B7.c</location>
+			<locationURI>PARENT-1-PROJECT_LOC/MSP430/F149/TMR0_B7.c</locationURI>
 		</link>
 		<link>
 			<name>USCI_A.h</name>
 			<type>1</type>
-			<location> c:/Users/pivov/_dev/_work/MSP430/F149/USCI_A.h</location>
+			<locationURI>PARENT-1-PROJECT_LOC/MSP430/F149/USCI_A.h</locationURI>
 		</link>
 		<link>
 			<name>WDT.c</name>
 			<type>1</type>
-			<location> c:/Users/pivov/_dev/_work/MSP430/F149/WDT.c</location>
+			<locationURI>PARENT-1-PROJECT_LOC/MSP430/F149/WDT.c</locationURI>
 		</link>
 		<link>
 			<name>WDT.h</name>
 			<type>1</type>
-			<location> c:/Users/pivov/_dev/_work/MSP430/F149/WDT.h</location>
+			<locationURI>PARENT-1-PROJECT_LOC/MSP430/F149/WDT.h</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

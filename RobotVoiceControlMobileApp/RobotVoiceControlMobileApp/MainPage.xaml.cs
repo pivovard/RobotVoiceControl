@@ -12,8 +12,6 @@ namespace RobotVoiceControlMobileApp
         BLEHandler bleHandler;
         VRHandler vrHandler;
 
-        bool _connected = false;
-
         public MainPage()
         {
             InitializeComponent();
@@ -55,7 +53,6 @@ namespace RobotVoiceControlMobileApp
 
                 if (res)
                 {
-                    _connected = true;
                     btnConnect.Source = "connected.png";
                     await DisplayAlert("", $"Connected to {bleHandler.adapter.ConnectedDevices[0].Name}", "Ok");
                 }
@@ -66,7 +63,6 @@ namespace RobotVoiceControlMobileApp
                 await bleHandler.Disconnect();
                 btnConnect.Source = "disconnected.png";
                 await DisplayAlert("", "Disconnected.", "Ok");
-                _connected = false;
             }
         }
 

@@ -35,7 +35,7 @@ namespace RobotVoiceControlMobileApp.Handlers
             {
                 devicesList.Clear();
 
-                adapter.ScanTimeout = 5000;
+                adapter.ScanTimeout = 7000;
                 adapter.ScanMode = ScanMode.Balanced;
 
                 adapter.DeviceDiscovered += (obj, a) =>

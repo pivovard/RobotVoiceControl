@@ -60,9 +60,6 @@ void main(void) {
     sec1_tick = 0;
     
     UART_Init();
-    command = 0;
-    comL = 0;
-    comR = 0;
 
     dif12_count = 0;
     dif23_count = 0;

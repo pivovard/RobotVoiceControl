@@ -13,6 +13,10 @@ void UART_Init(){
     volatile unsigned int i;
     pos = 0;
 
+    command = 0;
+    comL = 0;
+    comR = 0;
+
     P3SEL |= 0x30;                            // P3.4,5 = USART0 option select
 
     ME1 |= UTXE0 + URXE0;                     // Enable USART1 TXD/RXD

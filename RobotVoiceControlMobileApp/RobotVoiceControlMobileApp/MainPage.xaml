@@ -53,7 +53,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             
-            <Label x:Name="lText" Margin="5,0,0,0" Text="" />
+            <Label x:Name="lText" Margin="5,0,0,0" Text="" Grid.ColumnSpan="3"/>
 
             <Button x:Name="btnEN" Text="EN" Grid.Column="0" Grid.Row="1" Clicked="btnEN_Clicked"/>
             <Button x:Name="btnCZ" Text="CZ" Grid.Column="2" Grid.Row="1" Clicked="btnCZ_Clicked" IsVisible="False"/>
