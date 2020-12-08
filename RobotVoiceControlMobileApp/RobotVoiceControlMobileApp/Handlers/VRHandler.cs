@@ -99,7 +99,7 @@ namespace RobotVoiceControlMobileApp.Handlers
         {
             text = text.ToLower();
 
-            if (!text.Contains("hey robot")) return;
+            if (UsePhrase && !text.Contains(Phrase.ToLower())) return;
 
             if (text.Contains("stop"))
             {

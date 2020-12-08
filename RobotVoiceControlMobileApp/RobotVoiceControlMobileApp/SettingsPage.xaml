@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RobotVoiceControlMobileApp"
+             x:Class="RobotVoiceControlMobileApp.SettingsPage"
+             Title="Settings">
+    
+    <ContentPage.Content>
+        
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Row="0" Text="ApiKey:" VerticalOptions="Center"/>
+            <Entry AutomationId="apiId" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Text="{Binding Source={x:Static local:Constants.CognitiveServicesApiKey}}" ReturnType="Go" Completed="EntryString_Completed"/>
+            
+            <Label Grid.Row="1" Text="Region:" VerticalOptions="Center"/>
+            <Entry AutomationId="region" Grid.Row="1" Grid.Column="1" Text="{Binding Source={x:Static local:Constants.CognitiveServicesRegion}}" ReturnType="Go" Completed="EntryString_Completed"/>
+
+            <Label Grid.Row="2" Text="Call phrase:" VerticalOptions="Center"/>
+            <CheckBox AutomationId="usePhrase" Grid.Row="2" Grid.Column="1" IsChecked="{Binding Source={x:Static local:Constants.UsePhrase}}" CheckedChanged="CheckBox_CheckedChanged"/>
+            <Entry AutomationId="phrase" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Text="{Binding Source={x:Static local:Constants.Phrase}}" ReturnType="Go" Completed="EntryString_Completed"/>
+
+            
+            <Label Grid.Row="4" Text="Slow:" VerticalOptions="Center"/>
+            <Entry AutomationId="slow" Grid.Row="4" Grid.Column="1" Text="{Binding Source={x:Static local:Constants.SLOW}}" ReturnType="Go" Completed="EntryByte_Completed"/>
+
+            <Label Grid.Row="5" Text="Fast:" VerticalOptions="Center"/>
+            <Entry AutomationId="fast" Grid.Row="5" Grid.Column="1" Text="{Binding Source={x:Static local:Constants.FAST}}" ReturnType="Go" Completed="EntryByte_Completed"/>
+
+            <Label Grid.Row="6" Text="Very fast:" VerticalOptions="Center"/>
+            <Entry AutomationId="ffast" Grid.Row="6" Grid.Column="1" Text="{Binding Source={x:Static local:Constants.FFAST}}" ReturnType="Go" Completed="EntryByte_Completed"/>
+
+
+            <Button x:Name="btnReset" Grid.Row="7" Grid.Column="1" Text="Reset" Clicked="Reset_Clicked"/>
+        </Grid>
+        
+    </ContentPage.Content>
+</ContentPage>

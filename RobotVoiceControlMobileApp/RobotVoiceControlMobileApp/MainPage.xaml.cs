@@ -66,6 +66,12 @@ namespace RobotVoiceControlMobileApp
             }
         }
 
+        async void ShowSettings(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SettingsPage());
+        }
+
+        //Voice recognition controls
         private async void btnEN_Clicked(object sender, EventArgs e)
         {
             if (!await vrHandler.IsMicEnabled()) await DisplayAlert("Error", "Please grant permission to the microphone!", "Ok");
@@ -85,6 +91,8 @@ namespace RobotVoiceControlMobileApp
             DisplayAlert("", "Not implemented!", "Ok");
         }
 
+
+        //movement controls
         private async void btnLeft_Clicked(object sender, EventArgs e)
         {
             if (!await bleHandler.Send(FORWARD, new byte[2] { FAST, SLOW }))

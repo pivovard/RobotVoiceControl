@@ -12,3 +12,4 @@ C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceContr
 C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\RobotVoiceControlMobileApp.dll
 C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\ref\RobotVoiceControlMobileApp.dll
 C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\RobotVoiceControlMobileApp.pdb
+C:\Users\pivov\_dev\RobotVoiceControl\RobotVoiceControlMobileApp\RobotVoiceControlMobileApp\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
