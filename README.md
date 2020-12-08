@@ -13,3 +13,9 @@ Firmware for supervisor MSP430 MCU. Updated original firmware with BLE communica
 ##### Pins to connect HM-10:
 * VCC/GND - H5 (VCC next to 22uF capacitor)
 * TX/RX - H16 (UART0_RX at "1")
+
+#### Schematic
+![scheme](Schematic.png)
+
+#### PCB
+![pcb](PCB.jpg)
