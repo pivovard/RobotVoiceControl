@@ -9,3 +9,7 @@ Speech recognition requires an Azure Cognitive Services resource ([Create a Cogn
 
 ### RobotVRM
 Firmware for supervisor MSP430 MCU. Updated original firmware with BLE communication on UART0.
+
+##### Pins to connect HM-10:
+* VCC/GND - H5 (VCC next to 22uF capacitor)
+* TX/RX - H16 (UART0_RX at "1")
